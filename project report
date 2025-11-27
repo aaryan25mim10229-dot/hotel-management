@@ -1,0 +1,73 @@
+📄 PROJECT REPORT
+Hotel Management 
+Flipped Course Assessment
+Aaryan Sharma
+VITyarthi
+2025
+________________________________________
+1. Introduction
+This project is developed as part of the flipped course evaluation under the “Build Your Own Project” initiative.
+The main objective is to enable students to apply theoretical knowledge to a practical, real-world problem by designing, implementing, and documenting a complete working system.
+________________________________________
+2. Problem Statement
+The project aims to solve a specific identified problem by offering a functional technical solution. The problem is analysed from the perspective of user needs, workflow inefficiencies, or automation requirements.
+________________________________________
+3. Functional Requirements
+The system includes at least three major functional modules, such as:
+1.	User Management
+2.	Data Input & Processing
+3.	Reporting / Output Generation
+Each module has a clear input-output flow, ensuring a logical user interaction process.
+________________________________________
+4. Non-functional Requirements
+The project includes a minimum of four NFRs:
+•	Performance: Low-latency operations
+•	Usability: Simple and intuitive interface
+•	Security: Basic validation and safe operations
+•	Reliability: Handles errors gracefully
+•	Maintainability: Modular and readable code
+•	Scalability: Flexible to add more features later
+________________________________________
+5. System Architecture
+A modular architecture is used, consisting of:
+•	Presentation Layer
+•	Logic/Processing Layer
+•	Storage/Memory Layer (if applicable)
+________________________________________
+6. Design Decisions & Rationale
+•	Logical separation of modules
+•	Use of chosen language/framework for efficiency
+•	Validation design to ensure reliable operations
+•	Diagrams selected for clarity in documentation
+________________________________________
+7. Implementation Details
+•	Code structured across 5–10 meaningful modules/files
+•	Input validation included
+•	Error handling and messaging
+•	Version control used throughout development
+________________________________________
+8. Testing Approach
+•	Manual testing on all functional modules
+•	Validation tests for inputs
+•	Workflow consistency testing
+________________________________________
+9. Challenges Faced
+•	Identifying an appropriate architecture
+•	Creating UML diagrams
+•	Ensuring functional flow remains logical
+________________________________________
+10. Learnings & Key Takeaways
+•	Practical application of course concepts
+•	Importance of documentation
+•	Steps for designing system architecture
+•	Improved problem-solving and coding discipline
+________________________________________
+11. Future Enhancements
+•	Adding more advanced modules
+•	Integrating database storage
+•	Implementing advanced analytics / automation
+________________________________________
+12. References
+•	Build Your Own Project – VITyarthi Guidelines
+•	Class notes and learning materials
+
